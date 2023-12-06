@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Server listening on porteeee ! ${port}`);
+  console.log(`Server listening on porteeeeffffff ! ${port}`);
 });
 
 module.exports = app; // Pour les tests
